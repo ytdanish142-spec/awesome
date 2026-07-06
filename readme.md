@@ -263,7 +263,7 @@
 
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+- [ES7 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
 - [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
